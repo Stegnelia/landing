@@ -1,0 +1,18 @@
+.banner {
+  background-image: url(https://i.imgur.com/LHfjRs7.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1{
+  color:white;
+}
+
+.banner p{
+  color: white;
+}
+
+.banner-elements {
+  margin-left: 100px;
+}
